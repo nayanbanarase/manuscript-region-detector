@@ -1,0 +1,77 @@
+{
+  "image": "manuscript_sample_1.png",
+  "image_width": 2048,
+  "image_height": 834,
+  "detections": [
+    {
+      "label": "header",
+      "confidence": 0.95,
+      "bbox": [
+        163,
+        25,
+        1884,
+        133
+      ]
+    },
+    {
+      "label": "footer",
+      "confidence": 0.95,
+      "bbox": [
+        163,
+        700,
+        1884,
+        808
+      ]
+    },
+    {
+      "label": "main_text",
+      "confidence": 0.72,
+      "bbox": [
+        0,
+        133,
+        2047,
+        700
+      ]
+    },
+    {
+      "label": "side_text",
+      "confidence": 0.9,
+      "bbox": [
+        0,
+        133,
+        409,
+        700
+      ]
+    },
+    {
+      "label": "side_text",
+      "confidence": 0.9,
+      "bbox": [
+        1639,
+        133,
+        2047,
+        700
+      ]
+    },
+    {
+      "label": "filler",
+      "confidence": 0.6,
+      "bbox": [
+        0,
+        133,
+        163,
+        700
+      ]
+    },
+    {
+      "label": "filler",
+      "confidence": 0.6,
+      "bbox": [
+        1884,
+        133,
+        2047,
+        700
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+path: .
+train: images/train
+val: images/val
+
+names:
+  0: header
+  1: footer
+  2: main_text
+  3: side_text
+  4: filler
